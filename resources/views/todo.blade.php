@@ -13,7 +13,8 @@
 </head>
 
 <body>
-    <h1>Hello, world!</h1>
+    <h1 style="text-align: center;">Hello, User!</h1>
+    <center style="color: blue;">You can write down a list of activities that you will do today</center>
 
     <div class="row justify-content-center mt-5">
         <div class="col-lg-6">
