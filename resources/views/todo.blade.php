@@ -14,7 +14,7 @@
 
 <body>
     <h1 style="text-align: center;">Hello, User!</h1>
-    <center style="color: blue;">You can write down a list of activities that you will do today</center>
+    <center style="color: blue;">You can write down a list of activities that you will do today, let's go!</center>
 
     <div class="row justify-content-center mt-5">
         <div class="col-lg-6">
